@@ -55,5 +55,11 @@
   },
   "engines": {
     "node": ">=16.13"
+  },
+  "overrides": {
+    "@shopify/cli-kit": {
+      "node-fetch": "3.2.10",
+      "simple-git": "3.16.0"
+    }
   }
 }
