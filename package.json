@@ -60,6 +60,12 @@
     "@shopify/cli-kit": {
       "node-fetch": "3.2.10",
       "simple-git": "3.16.0"
+    },
+    "@miniflare/core": {
+      "undici": "5.19.1"
+    },
+    "@miniflare/web-sockets": {
+      "undici": "5.19.1"
     }
   }
 }
